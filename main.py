@@ -9,7 +9,8 @@ import re
 
 # Telegram Bot Token & Channel ID
 BOT_TOKEN = "7403870709:AAHrQzyQkyetO9rHJvgV7Mh8TMhb3XQnWdE"
-CHANNEL_ID = "@ff_id_unban"  # Replace with your channel's username or ID
+CHANNEL_ID = "@ff_id_unban"  # Replace with your channel's username or ID
+ # Replace with your channel's username or ID
 bot = telebot.TeleBot(7403870709:AAHrQzyQkyetO9rHJvgV7Mh8TMhb3XQnWdE)
 
 # Function to check UID on the website
